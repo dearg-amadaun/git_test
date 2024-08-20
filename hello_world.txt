@@ -1,1 +1,7 @@
 "Hello world...*again*"
+
+"I swear I'm done distro hopping. Everything is set up and working, again-again, as soon as I can push this edit with no issues..."
+
+
+
+ 
